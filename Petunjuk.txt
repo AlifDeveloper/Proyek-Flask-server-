@@ -1,0 +1,7 @@
+Proses penginstalan proyek flask:
+1. buat folder bernama flask_github 
+2. buka cmd dan ketik [cd flask_github] lalu enter, sesuai lokasi tempat folder
+3. pada cmd ketik [py -3 -m venv data-env] lalu enter
+4. aktifkan proyek dengan ketik di cmd [.\data-env\scripts\activate] lalu enter
+5. ketika sudah aktif maka ketik [pip install flask] lalu enter.
+
